@@ -19,5 +19,10 @@
         "downloadUrl" : "http://soitscometothis.net/simplication/rules/GGWT.smworkflow",
         "type" : 0,
         "id" : "5EBB0764-974A-471E-89A4-B4528B87CD24"
+    }, {
+        "name" : "Rogue One",
+        "downloadUrl" : "http://soitscometothis.net/simplication/rules/RogueOne.smworkflow",
+        "type" : 0,
+        "id" : "B070E535-F88E-438A-BF19-A69CD61BD8CB"
     }
 ]
