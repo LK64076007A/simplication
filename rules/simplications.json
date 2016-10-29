@@ -1,13 +1,8 @@
 [
     {
-        "name" : "Bouy",
-        "downloadUrl" : "https://waynehartman.com/downloads/workflows/Bouy.smworkflow",
+        "name" : "Mac Mini Refurb",
+        "downloadUrl" : "http://soitscometothis.net/rules/MacMiniRefurb.smworkflow",
         "type" : 0,
-        "id" : "77876D0E-736B-4B43-91FE-330071F6EF68"
-    }, {
-        "name" : "Election (Small)",
-        "downloadUrl" : "https://waynehartman.com/downloads/workflows/ElectionSmall.smworkflow",
-        "type" : 0,
-        "id" : "43D03276-13B0-4FE9-A6C6-E9EF83A75CF2"
+        "id" : "D83D3957-AB70-4CF9-9A84-FA1D65E950A4"
     }
 ]
