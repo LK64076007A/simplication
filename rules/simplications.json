@@ -1,0 +1,13 @@
+[
+    {
+        "name" : "Bouy",
+        "downloadUrl" : "https://waynehartman.com/downloads/workflows/Bouy.smworkflow",
+        "type" : 0,
+        "id" : "77876D0E-736B-4B43-91FE-330071F6EF68"
+    }, {
+        "name" : "Election (Small)",
+        "downloadUrl" : "https://waynehartman.com/downloads/workflows/ElectionSmall.smworkflow",
+        "type" : 0,
+        "id" : "43D03276-13B0-4FE9-A6C6-E9EF83A75CF2"
+    }
+]
