@@ -4,5 +4,10 @@
         "downloadUrl" : "http://soitscometothis.net/simplication/rules/MacMiniRefurb.smworkflow",
         "type" : 0,
         "id" : "D83D3957-AB70-4CF9-9A84-FA1D65E950A4"
+    }, {
+        "name" : "DEFCON level",
+        "downloadUrl" : "http://soitscometothis.net/simplication/rules/DEFCONlevel.smworkflow",
+        "type" : 0,
+        "id" : "8E9C5B15-CA39-4F4B-AF7F-25FCF9BE8DF0"
     }
 ]
