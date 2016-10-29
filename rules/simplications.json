@@ -14,5 +14,10 @@
         "downloadUrl" : "http://soitscometothis.net/simplication/rules/GGWD.smworkflow",
         "type" : 0,
         "id" : "A49A6E5D-7745-4329-B833-EB1052EA38E7"
+    }, {
+        "name" : "Golden Gate water temperature",
+        "downloadUrl" : "http://soitscometothis.net/simplication/rules/GGWT.smworkflow",
+        "type" : 0,
+        "id" : "5EBB0764-974A-471E-89A4-B4528B87CD24"
     }
 ]
