@@ -9,5 +9,10 @@
         "downloadUrl" : "http://soitscometothis.net/simplication/rules/DEFCONlevel.smworkflow",
         "type" : 0,
         "id" : "8E9C5B15-CA39-4F4B-AF7F-25FCF9BE8DF0"
+    }, {
+        "name" : "Golden Gate wind data",
+        "downloadUrl" : "http://soitscometothis.net/simplication/rules/GGWD.smworkflow",
+        "type" : 0,
+        "id" : "A49A6E5D-7745-4329-B833-EB1052EA38E7"
     }
 ]
